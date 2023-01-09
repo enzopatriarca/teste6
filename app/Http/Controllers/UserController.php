@@ -47,7 +47,7 @@ class UserController extends Controller{
             //dd('logou');
             $teste = 1;
                  $radius = radius_auth_open();
-                 if (!radius_add_server($radius, '172.17.41.251', 1812, 'ITA#R4d!U$1t@1pu', 3, 3)) {
+                 if (!radius_add_server($radius,)) {
                      die('Radius Error: ' . radius_strerror($radius));
                  }
                  if (!radius_create_request($radius, RADIUS_ACCESS_REQUEST)) {
