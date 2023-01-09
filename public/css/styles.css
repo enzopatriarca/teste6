@@ -1,0 +1,141 @@
+.titulo_1{
+	font-family: fangsong;
+	background-color: silver;
+
+}
+
+.log{
+	font-family: fangsong;
+	background-color: silver;
+}
+
+.titulo_2{
+	font-size: 20px;
+}
+
+.btn_1{
+	background-color: silver;
+	color: black;
+	border-color: black;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 31px;
+}
+
+.btn_1:hover{
+	background-color: #3f51b5;
+	color: black;
+	border-color: black;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 36px;
+}
+
+.btn_2:hover{
+	background-color: #3f51b5;
+	color: black;
+	border-color: black;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 70px;
+}
+
+.btn_2{
+	background-color: silver;
+	color: black;
+	border-color: black;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 65px;
+}
+
+
+
+
+.bod{
+	margin-top: 0px;
+
+}
+
+
+.titulo1{
+	font-size: 30px;
+	background-color: darkgray;
+	margin:0px;
+	font-family: fangsong;
+}
+
+.titulo2{
+	margin:0px;
+	background-color: darkgray; 
+	font-size: 25px;
+	font-family: fangsong;
+}
+
+.td1{
+	text-align: center; 
+	vertical-align: middle;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: fangsong;
+	background-color: lightseagreen;
+}
+
+.op1{
+	font-weight: bold; 
+	font-size: 14px;
+	font-style: italic;
+}
+
+.op2{
+	font-weight: bold;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.op1:hover{
+	background-color: black;
+	color: white;
+}
+
+.op1:checked{
+	background-color: #3f51b5;
+	color: black;
+}
+
+.op1:focus{
+	background-color: #3f51b5;
+	color: black;
+}
+
+.op2:hover{
+	background-color: black;
+	color: white;
+}
+
+.op2:checked{
+	background-color: #3f51b5;
+	color: black;
+}
+
+.op2:focus{
+	background-color: #3f51b5;
+	color: black;
+}
+
+.botao{
+	border-radius: 20px;
+	border-style: solid;
+	border-color: unset;
+	background-color: silver;
+	padding: 6px;
+}
+
+.botao:hover{
+	border-radius: 20px;
+	border-style: solid;
+	border-color: unset;
+	background-color: #3f51b5;
+	color: black;
+	padding: 6px;
+}
